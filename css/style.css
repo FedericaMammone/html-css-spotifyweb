@@ -18,6 +18,10 @@
     background-color: aqua;
 }
 
+.logo img {
+    height: 50px;
+}
+
 #header {
     height: 80px;
     width: 100%;
